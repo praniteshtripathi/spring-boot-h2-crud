@@ -8,6 +8,7 @@ public class SpringBootH2CrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootH2CrudApplication.class, args);
+		
 	}
 
 }
